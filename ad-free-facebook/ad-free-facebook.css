@@ -1,0 +1,6 @@
+[data-ad],
+.adsCategoryTitleLink,
+.adsCategoryTitleLink + a {
+  display: none !important;
+  visibility: hidden !important;
+}
