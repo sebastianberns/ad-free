@@ -5,7 +5,16 @@ These user styles are a simple hack that ensure the same and improved functional
 - Chrome built-in user styles
 - URL specific rules
 
-#### Note
+#### Installation
+1. Download folders
+2. Go to chrome://extensions/
+3. Activate developer mode
+4. Click `Load unpacked extension…` and add downloaded folders one by one
+
+
+#### Notes
+Only works in Chrome.
+
 This obviously doesn’t remove any ads from any site (they’ll still be loaded), but simply hides them using CSS.
 
 #### License
