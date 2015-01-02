@@ -1,0 +1,5 @@
+#google_companion_ad_div,
+.video-ads {
+  display: none !important;
+  visibility: hidden !important;
+}
