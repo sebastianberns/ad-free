@@ -1,5 +1,8 @@
 #google_companion_ad_div,
-.video-ads {
+.video-ads,
+.ad-container,
+.ad-overlay,
+.ytp-ad-progress {
   display: none !important;
   visibility: hidden !important;
 }
