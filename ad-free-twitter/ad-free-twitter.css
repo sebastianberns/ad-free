@@ -1,5 +1,6 @@
 .promoted-tweet,
-.promoted-trend {
+.promoted-trend,
+.promoted-account {
   display: none !important;
   visibility: hidden !important;
 }
