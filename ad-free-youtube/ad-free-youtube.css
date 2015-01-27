@@ -2,7 +2,8 @@
 .video-ads,
 .ad-container,
 .ad-overlay,
-.ytp-ad-progress {
+.ytp-ad-progress,
+.pyv-afc-ads-container {
   display: none !important;
   visibility: hidden !important;
 }
