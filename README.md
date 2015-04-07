@@ -1,5 +1,9 @@
 Adblock seems to have been become unbearably bloated, [significantly slowing down page rendering](http://www.extremetech.com/computing/182428-ironic-iframes-adblock-plus-is-probably-the-reason-firefox-and-chrome-are-such-memory-hogs).
 
+<a href="https://twitter.com/aberigle/status/550272561293320192" target="_blank">
+<img src="https://pbs.twimg.com/media/B6L1-iDIgAE7z_-.jpg">
+</a>
+
 These user styles are a simple hack that ensure the same and improved functionality.
 
 - Chrome built-in user styles
